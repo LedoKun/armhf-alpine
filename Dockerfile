@@ -1,4 +1,4 @@
-FROM arm32v6/alpine
+FROM arm32v6/alpine:3.6
 
 MAINTAINER Rom Luengwattanapong <romamp100 at gmail dot com>
 
